@@ -10,5 +10,6 @@ July 3rd 2021: As of today, I finished building the script a few days ago that m
 <br>
 <code> $ rosrun AutonoROS obstacle_avoiding.py </code>
 <br>
+
 You need to have TurtleBot3 installed if you wanna run the simulation but you can also run the script as long as the robot you have simulated is subscribed to the /cmd_vel topic and publishes to the /scan topic. Hopefully I'm not wrong about all that.
 
